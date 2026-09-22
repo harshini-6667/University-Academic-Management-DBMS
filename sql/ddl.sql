@@ -1,6 +1,3 @@
--- University Academic Management
--- DDL: Table Creation
-
 CREATE TABLE Department (
     Dept_ID INT PRIMARY KEY,
     Dept_Name VARCHAR(100) NOT NULL,
